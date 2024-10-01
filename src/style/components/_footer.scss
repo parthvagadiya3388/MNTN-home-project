@@ -1,0 +1,22 @@
+/* Footer.css */
+footer {
+    background-color: #0b0e11; /* Dark background color */
+  }
+  
+  footer h4, footer h5 {
+    font-weight: bold;
+  }
+  
+  footer a {
+    text-decoration: none;
+  }
+  
+  footer a:hover {
+    color: #ffc107; /* On hover, change link color to warning yellow */
+  }
+  
+  .text-muted {
+    font-size: 0.9rem;
+    color: rgba(255, 255, 255, 0.7); /* Subtle muted text */
+  }
+  
